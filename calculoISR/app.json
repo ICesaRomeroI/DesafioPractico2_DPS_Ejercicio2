@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "calculoISR",
+    "slug": "calculoISR",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "calculoISR"
+}
